@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Gustavo-trybedev/Gustavo-trybedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+My name is Gustavo, 29yo and i'm live in Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at Trybe learning Full Stack Web Development
+
+# GustavoBarrosDutra
+
+<div>
+<a href="https://github.com/Gustavo-trybedev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-trybedev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-trybedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
