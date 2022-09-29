@@ -4,7 +4,8 @@ Welcome to my GitHub profile!
 
 My name is Gustavo, 29yo.
 
-- 🔭 I'm a former environmental engineering, currently studying at Trybe, to become a Full Stack Web Developer.
+- 🔭 I'm a former environmental engineering, currently studying at Trybe,
+     to become a Full Stack Web Developer.
 - 🌱 I’m currently learning React/Redux and Hooks.
 - 👯 I’m looking to collaborate on Javascript, HTML and CSS projects.
 - 📫 How to reach me: gustavo.dutra11@gmail.com
