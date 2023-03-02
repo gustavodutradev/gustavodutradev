@@ -6,8 +6,8 @@ My name is Gustavo, 29yo.
 
 - 🔭 I'm a former environmental engineering, currently studying at Trybe,
      to become a Full Stack Web Developer.
-- 🌱 I’m currently studying Back-End, learning NodeJS.
-- 👯 I’m looking to collaborate on Javascript, HTML and CSS projects.
+- 🌱 I'm currently finishing Backend studies, building a beverage delivery app with a team.
+- 👯 I’m looking to collaborate on fullstack aplications with Javascript/Typescript.
 - 📫 How to reach me: gustavo.dutra11@gmail.com
 
 <div>
