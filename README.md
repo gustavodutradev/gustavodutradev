@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile!
 
-My name is Gustavo, 29yo.
+My name is Gustavo, 30yo.
 
 - 🔭 I'm a former environmental engineering, currently studying at Trybe,
      to become a Full Stack Web Developer.
-- 🌱 I'm currently finishing Backend studies, building a beverage delivery app with a team.
-- 👯 I’m looking to collaborate on fullstack aplications with Javascript/Typescript.
-- 📫 How to reach me: gustavo.dutra11@gmail.com
+- 🌱 I'm currently finishing Computer Science studies, and the main technology learned was Python.
+- 👯 I’m looking to collaborate on fullstack aplications with Javascript/Typescript and Python.
+- 📫 How to reach me: gustavobdsdev@gmail.com
 
 <div>
 <a href="https://github.com/Gustavo-trybedev">
