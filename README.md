@@ -4,9 +4,8 @@ Welcome to my GitHub profile!
 
 My name is Gustavo, 30yo.
 
-- 🔭 I'm a former environmental engineering, currently studying at Trybe,
-     to become a Full Stack Web Developer.
-- 🌱 I'm currently finishing Computer Science studies, and the main technology learned was Python.
+- 🔭 I'm a Full Stack Web Developer and Environmental and Sanitarist Engineer.
+- 🌱 I'm currently refactoring some projects and studying Next.JS
 - 👯 I’m looking to collaborate on fullstack aplications with Javascript/Typescript and Python.
 - 📫 How to reach me: gustavobdsdev@gmail.com
 
