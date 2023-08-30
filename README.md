@@ -5,9 +5,9 @@ Welcome to my GitHub profile!
 My name is Gustavo, 30yo.
 
 - 🔭 I'm a Full Stack Web Developer and Environmental and Sanitarist Engineer.
-- 🌱 I'm currently looking for a job and studying Next.JS
+- 🌱 I'm currently studying C# and looking for a job in Brazil.
 - 👯 I’m looking to collaborate on aplications with Javascript/Typescript or Python.
-- 📫 How to reach me: gustavobdsdev@gmail.com
+- ✨ Check out my portfolio: https://gustavodutradev.vercel.app
 
 <div>
 <a href="https://github.com/Gustavo-trybedev">
