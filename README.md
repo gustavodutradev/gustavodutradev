@@ -10,10 +10,10 @@ My name is Gustavo, 31yo.
 - ✨ Check out my portfolio: https://gustavodutradev.vercel.app
 
 <div>
-<a href="https://github.com/Gustavo-trybedev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-trybedev&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/gustavodutradev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodutradev&layout=compact&langs_count=7&theme=dracula"/>
   </ br>
   </ br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-trybedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavodutradev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
